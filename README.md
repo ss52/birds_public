@@ -1,1 +1,1 @@
-# birds_public
+Source code for the conference paper: "Migration of Greater White-Fronted Geese and Spring Hunting in Russia: Insights from GPS Tracking" at The 21st Goose Specialist Group meeting 27th-31th January 2025, Mušov, Pasohlávky, South Moravia, Czech Republic
